@@ -5,4 +5,4 @@ This repository contains code examples and implementations of design patterns as
 ## Design Patterns Included
 - [Strategy Design Pattern]: i skipped that chapter as i already knew it and used it before.
 - [Observer Pattern]: The Observer Pattern demonstrates how to notify observers subscribed to an observable when its state changes.
-- [Decorator Pattern]: The Decorator Pattern showcases how to dynamically add behaviors to a component during runtime.
+- [Decorator Pattern]: The Decorator Pattern Dynamically adds behavior to objects by wrapping them in other objects that provide these functionalities.
